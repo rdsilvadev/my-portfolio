@@ -1,12 +1,12 @@
 import { Project } from "../interface";
-import AmazonClone from "./../public/static/images/projects/amazon-clone.webp";
-import Covid from "./../public/static/images/projects/covid.webp";
-import Cryptobase from "./../public/static/images/projects/cryptobase.webp";
-import NextMovies from "./../public/static/images/projects/next-movies.webp";
-import PomodoroApp from "./../public/static/images/projects/pomo-app.webp";
-import WeatherApp from "./../public/static/images/projects/weather-app.webp";
-import Pizzahub from "./../public/static/images/projects/pizzahub.webp";
-import Portfolio from "./../public/static/images/projects/portfolio.webp";
+import AmazonClone from "./../public/static/images/projects/amazon-clone.png";
+import Covid from "./../public/static/images/projects/covid.png";
+import Cryptobase from "./../public/static/images/projects/cryptobase.png";
+import NextMovies from "./../public/static/images/projects/next-movies.png";
+import PomodoroApp from "./../public/static/images/projects/pomo-app.png";
+import WeatherApp from "./../public/static/images/projects/weather-app.png";
+import Pizzahub from "./../public/static/images/projects/pizzahub.png";
+import Portfolio from "./../public/static/images/projects/portfolio.png";
 
 export const projects: Project[] = [
   {
