@@ -46,7 +46,7 @@ export const projects: Project[] = [
     heading:
       "Cryptobase - Home of cryptocurrencies, NFTs, exchanges, and crypto news",
     paragraphs: [
-      "Cryptus provides basic information about popular coins in the world, the latest crypto news and popular exchanges website.",
+      "CryptoBase provides basic information about popular coins in the world, the latest crypto news and popular exchanges website.",
       "Users can filter out coins and check the coin's history in form of a simple graph.",
     ],
 
